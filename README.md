@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sweeti77
-- I’m currently working on some personal projects.
+- ✨ I’m currently working on some personal projects.
 - 👀 I’m interested in backend Development
 - 🌱 I’m currently learning Django 
 
